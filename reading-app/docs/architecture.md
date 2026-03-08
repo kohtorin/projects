@@ -15,23 +15,23 @@ Flutter + C# で読書アプリを作る練習プロジェクト。
 
 # 全体構成
 
-
+```text
 projects
 ├ reading-archive # 読書ログ（Markdown DB）
 └ reading-app # アプリ
-
+```
 
 ---
 
 # アーキテクチャ
 
-
+```text
 Flutter (フロント)
 ↓ API
 C# (.NET backend)
 ↓
 Reading Archive (Markdown)
-
+```
 
 ## 役割
 
