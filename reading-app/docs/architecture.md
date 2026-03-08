@@ -169,15 +169,16 @@ FlutterからAPIを呼ぶ。
 
 # 保存場所
 
-
+```text
 reading-app
 └ docs
 └ architecture.md
-
+```
 
 または
 
-
+```text
 reading-app
 └ notes
 └ plan.md
+```
